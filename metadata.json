@@ -1,0 +1,6 @@
+{
+  "name": "WTCflix",
+  "description": "A modern movie and TV streaming web application powered by live TMDB API catalog search, multi-server sources (FS Plus BDIX, Stremio, VidSrc, VidKing), user registration, watch progress tracking, and dynamic URL routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
